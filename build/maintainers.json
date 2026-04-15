@@ -542,6 +542,9 @@
   "/amz123/kx": [
     "defp"
   ],
+  "/android/pixel-update-bulletin": [
+    "TonyRL"
+  ],
   "/android/platform-tools-releases": [
     "nczitzk"
   ],
@@ -1333,6 +1336,9 @@
   "/cahkms/:category?": [
     "nczitzk"
   ],
+  "/caicai/blog/:lang?": [
+    "TonyRL"
+  ],
   "/caijing/roll": [
     "TonyRL"
   ],
@@ -1419,6 +1425,9 @@
   ],
   "/castanet/:category?": [
     "TonyRL"
+  ],
+  "/castbox/channel/:channel": [
+    "ananyatimalsina"
   ],
   "/catti/news/:category": [
     "PrinOrange"
@@ -3009,6 +3018,9 @@
   "/fastbull/news": [
     "nczitzk"
   ],
+  "/fcbayern/news/:language?": [
+    "TonyRL"
+  ],
   "/fda/cdrh/:titleOnly?": [],
   "/fediverse/timeline/:account": [
     "DIYgod",
@@ -4509,6 +4521,9 @@
   "/ianspriggs/:category?": [
     "nczitzk"
   ],
+  "/iapp/news": [
+    "TonyRL"
+  ],
   "/icac/news/:lang?": [
     "linbuxiao, TonyRL"
   ],
@@ -4770,6 +4785,9 @@
   ],
   "/j-test/news": [
     "kuhahku"
+  ],
+  "/jable/search/:query": [
+    "eve2ptp"
   ],
   "/jamesclear/book-summaries": [
     "Rjnishant530"
@@ -5882,6 +5900,9 @@
   "/mysql/release/:version?": [
     "nczitzk"
   ],
+  "/nanhua/report/:type1/:type2": [
+    "TonyRL"
+  ],
   "/nankai/ai/:type?": [
     "LMark"
   ],
@@ -6984,6 +7005,9 @@
     "miaoyafeng",
     "Fatpandac"
   ],
+  "/projectjav/actress/:id": [
+    "Exat1979"
+  ],
   "/ps/monthly-games": [
     "justjustCC"
   ],
@@ -7387,7 +7411,7 @@
   "/ruc/hr/:category?": [
     "nczitzk"
   ],
-  "/runtrail/": [
+  "/runyeah/": [
     "TonyRL"
   ],
   "/rustcc/jobs": [
@@ -9409,6 +9433,9 @@
   ],
   "/xboxfan/news": [
     "XXY233"
+  ],
+  "/xhamster/:creators": [
+    "eve2ptp"
   ],
   "/xianbao/:category?": [
     "nashi23"
